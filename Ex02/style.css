@@ -1,0 +1,22 @@
+h1 {
+    font-family: Bebas Neue;
+    font-size: 50px;
+    color: red;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-family: Roboto;
+}
+
+.cor {
+    color: rgba(20, 136, 92, 0.733);
+}
+
+div {
+    background-color: rgb(241, 209, 149);
+   
+}
